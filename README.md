@@ -101,7 +101,7 @@ Relationships were created between all tables using primary and foreign keys to 
 
 (Add your dashboard screenshot here)
 
-![Dashboard]()
+![Dashboard](output.png)
 
 ---
 
